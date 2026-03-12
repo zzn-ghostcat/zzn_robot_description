@@ -1,0 +1,1 @@
+熟悉urdf、xacro、sdf等，使用Gazebo工具进行机器人仿真
